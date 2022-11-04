@@ -7,4 +7,4 @@ A list of scss file that allow you to edit every part of Bootstrap
 
 ## Project status
 
-The project is currently _in progress_
+This project is currently _in progress_
