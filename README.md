@@ -3,7 +3,7 @@ A list of scss file that allow you to edit every part of Bootstrap
 
 ## Requirement
 
-* Bootstrap
+* Bootstrap 3.3.7
 
 ## Project status
 
